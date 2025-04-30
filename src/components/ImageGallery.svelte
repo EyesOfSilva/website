@@ -2,10 +2,11 @@
 <script>
 import { fade } from 'svelte/transition';
 let images = [
+  { src: 'gallery-images/image04.jpg', alt: 'Image 4' },
+  { src: 'gallery-images/bloom01.jpg', alt: 'Bloom' },
   { src: 'gallery-images/image01.jpg', alt: 'Image 1' },
   { src: 'gallery-images/image02.jpg', alt: 'Image 2' },
   { src: 'gallery-images/image03.jpg', alt: 'Image 3' },
-  // Add more images as needed
 ];
 
 let selectedImageIndex = null;
