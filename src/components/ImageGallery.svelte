@@ -2,7 +2,7 @@
 <script>
 import { fade } from 'svelte/transition';
 let images = [
-  { src: 'gallery-images/image04.jpg', alt: 'Image 4' },
+  { src: 'gallery-images/image04.jpeg', alt: 'Image 4' },
   { src: 'gallery-images/bloom01.jpg', alt: 'Bloom' },
   { src: 'gallery-images/image01.jpg', alt: 'Image 1' },
   { src: 'gallery-images/image02.jpg', alt: 'Image 2' },
