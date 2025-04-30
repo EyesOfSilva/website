@@ -1,0 +1,22 @@
+::selection {
+    background: #470447;
+    color: #fff;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #470447;
+    padding: 2rem 0;
+    font-size: 1.7em;
+    display: inline-block;
+}
+
+.main-content {
+    padding: 0 25px;
+    display: flex;
+    flex-direction: column;
+}
